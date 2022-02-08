@@ -16,5 +16,5 @@ Other things related to events such as
 - Results of team battles
 - Announcements of chess tournaments
 - Announcements of team battles
-should be put in the Announcements folder.
 
+should be put in the Announcements folder.
